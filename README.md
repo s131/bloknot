@@ -1,1 +1,1 @@
-# bloknot is Android Studio.
+# bloknot
